@@ -2,7 +2,7 @@
 
 タスクトレイに常駐するURLを置き換えたりできるもの
 
-## 説明
+## 機能説明
 
 タスクトレイに常駐しGUIもCUIもないアプリケーション  
 URLを別のURLに置き換えする(例:x.com -> twitter.com)  
@@ -14,4 +14,4 @@ on/offを切り替えする
 ## license
 
 このアプリケーションを使用する場合は以下のライセンスが適用されます  
-ClipyExtender © 2025 by わんころいぬ is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1)
+[ClipyExtender ©](https://github.com/wancor1/ClipyExtender) 2025 by わんころいぬ is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1)
